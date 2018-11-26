@@ -8,6 +8,7 @@ html {
 
 body {
   display: inline-block;
+  position: relative;
 }
 
 h2 {
@@ -35,4 +36,13 @@ p {
 
 .banner {
   display: inline-flex;
+}
+
+.back {
+  position: absolute;
+}
+
+.btn:hover {
+  background-color: #000;
+  border-color: #000;
 }
