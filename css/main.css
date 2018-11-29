@@ -55,6 +55,7 @@ p {
   left: 1em;
   top: 1em;
   align-items: flex-start;
+  justify-content: flex-start;
 }
 
 .img-flex {
